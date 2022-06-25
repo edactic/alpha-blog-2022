@@ -1,5 +1,7 @@
 # README
 
+This is a modified version of the readme file to test GIT.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
